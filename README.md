@@ -1,6 +1,6 @@
 # Artisanat Local - Marketplace de Produits Artisanaux
 
-✨ **Site live:** [https://artisanat-local.vercel.app/](https://artisanat-local.vercel.app/)
+🔗 Site disponible sur: https://artisanat-local.vercel.app/
 
 ## 🎨 À propos du projet
 
@@ -8,7 +8,7 @@ Artisanat Local est une marketplace dédiée à la mise en valeur et à la vente
 
 ![Logo Artisanat Local](/public/placeholder-logo.png)
 
-![Marketplace Artisanal](https://images.unsplash.com/photo-1607082350899-7e105aa886ae?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=1200)
+![Marketplace Artisanal](https://cdn.pixabay.com/photo/2023/05/29/18/10/pottery-8026823_960_720.jpg)
 
 ## 🚀 Ma démarche de développement
 
