@@ -1,5 +1,7 @@
 # Artisanat Local - Marketplace de Produits Artisanaux
 
+✨ **Site live:** [https://artisanat-local.vercel.app/](https://artisanat-local.vercel.app/)
+
 ## 🎨 À propos du projet
 
 Artisanat Local est une marketplace dédiée à la mise en valeur et à la vente de créations artisanales françaises. La plateforme connecte les artisans locaux avec des clients à la recherche de pièces uniques, authentiques et durables.
@@ -71,9 +73,15 @@ Le projet suit l'architecture App Router de Next.js, organisée de manière modu
 
 ## 🔧 Installation et démarrage
 
+### Voir en ligne
+
+Le projet est déployé et accessible à l'adresse: [https://artisanat-local.vercel.app/](https://artisanat-local.vercel.app/)
+
+### Installation locale
+
 1. Clonez le dépôt
 ```bash
-git clone https://github.com/votre-username/artisanat-local.git
+git clone https://github.com/AndysemarielB/artisanat-local.git
 cd artisanat-local
 ```
 
@@ -112,6 +120,18 @@ pnpm dev
 - Ajout d'un système d'authentification
 - Intégration de fonctionnalités sociales (partage, avis)
 - Développement d'une application mobile (React Native)
+
+## 🚀 Déploiement
+
+Le projet est déployé sur Vercel, une plateforme de déploiement optimisée pour les applications Next.js. Le déploiement continu est configuré pour mettre à jour automatiquement le site à chaque push sur la branche principale.
+
+Processus de déploiement :
+1. Création d'un compte sur Vercel et connexion avec GitHub
+2. Importation du dépôt GitHub
+3. Configuration des variables d'environnement
+4. Déploiement automatique à chaque commit
+
+Le site est accessible à l'adresse : [https://artisanat-local.vercel.app/](https://artisanat-local.vercel.app/)
 
 ## 📞 Contact
 
