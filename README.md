@@ -4,7 +4,9 @@
 
 Artisanat Local est une marketplace dédiée à la mise en valeur et à la vente de créations artisanales françaises. La plateforme connecte les artisans locaux avec des clients à la recherche de pièces uniques, authentiques et durables.
 
-![Artisanat Local](/public/placeholder.svg)
+![Logo Artisanat Local](/public/placeholder-logo.png)
+
+![Marketplace Artisanal](https://images.unsplash.com/photo-1607082350899-7e105aa886ae?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=1200)
 
 ## 🚀 Ma démarche de développement
 
